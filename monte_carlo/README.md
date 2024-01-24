@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the estimation of the mathematical constant PI (π) using the Monte Carlo method. Monte Carlo methods, or Monte Carlo experiments, are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results. The underlying concept is to use randomness to solve problems that might be deterministic in principle [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+This project demonstrates the estimation of the mathematical constant PI (π) using the Monte Carlo method. Monte Carlo methods, or Monte Carlo experiments, are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results. The underlying concept is to use randomness to solve problems that might be deterministic in principle. [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
  
 
 ## How it works
