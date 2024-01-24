@@ -20,7 +20,7 @@ This project demonstrates the estimation of the mathematical constant PI (π) us
 To run the program, simply execute the main script:
 
 ```bash
-python simulation.py
+python3 simulation.py
 ```
 
 Ensure you have Python installed on your machine.
