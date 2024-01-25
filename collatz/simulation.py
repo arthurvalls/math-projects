@@ -26,8 +26,8 @@ def main():
 
 	plt.scatter(xs, ys, color='skyblue', s=0.3)
 	# Add labels and a title
-	plt.xlabel('Steps until 4-2-1-loop')
-	plt.ylabel('Number')
+	plt.xlabel('Number')
+	plt.ylabel('Steps until 4-2-1-loop')
 	plt.title('Collatz Conjecture')
 
 	#plt.show()
