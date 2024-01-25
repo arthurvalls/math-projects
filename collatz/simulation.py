@@ -31,7 +31,7 @@ def main():
 	plt.title('Collatz Conjecture')
 
 	#plt.show()
-	plt.savefig("./images/example.png")
+	plt.savefig("./images/collatz.png")
 
 
 if __name__ == "__main__":

@@ -10,4 +10,4 @@ It concerns sequences of integers in which each term is obtained from the previo
 
 The generated image (`example.png`) aids in visualizing the number of steps required for a value to ultimately enter the 4-2-1 loop.
 
-![Collatez](./images/example.png)
+![Collatez](./images/collatz.png)
