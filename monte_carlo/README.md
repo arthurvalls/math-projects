@@ -15,29 +15,6 @@ This project demonstrates the estimation of the mathematical constant PI (π) us
 
 4. **Visualize Results**: An image is provided to visually represent the process and the placement of points within the square.
 
-## Usage
-
-To run the program, simply execute the main script:
-
-```bash
-python3 simulation.py
-```
-
-Ensure you have Python installed on your machine.
-
-## Dependencies
-
-This project has the following dependencies:
-
-- Python 3.x
-- [matplotlib](https://matplotlib.org/) for visualization
-
-Install the dependencies using:
-
-```bash
-pip install matplotlib
-```
-
 ## Results
 
 The result image (`example.png`) showcases the generated points within the square, with hits inside the quarter circle highlighted in blue.
